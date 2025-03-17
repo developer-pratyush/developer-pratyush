@@ -40,7 +40,7 @@
 
 ### 📌 Featured Projects
 - 🎮 **[Game Name](https://github.com/your-username/game-repo)** - A unique game built with **Godot Engine**
-- 🌐 **[Web Project Name](https://github.com/developer-pratyush/Chat-MessengerV1.0)** - A modern web app using *React*
+- 🌐 **[Chat-MessengerV1.0](https://github.com/developer-pratyush/Chat-MessengerV1.0)** - A modern web app using *React*
 
 ---
 
