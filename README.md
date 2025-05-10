@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎮 Game Developer specialized in **Godot Engine**
+- 🎮 Game Developer specialized in **Unity | Godot Engine**
 - 🌐 Frontend Web Developer with expertise in **HTML, CSS, JavaScript, React, and Node.js**
 - 🔥 Passionate about creating **immersive games & sleek UI designs**
 - 📌 Currently working on **game development projects and modern web interfaces**
