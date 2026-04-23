@@ -4,7 +4,7 @@
 <p align="center">
   <b>Game Developer | Frontend Web Developer</b>
 </p>
-![Views](https://komarev.com).
+
 ---
 
 ### 🚀 About Me
