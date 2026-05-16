@@ -1,6 +1,11 @@
 <h1 align="center">Pratyush</h1>
+
 <p align="center">
   AI/ML Engineer • 17 Years Old
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=developer-pratyush&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
@@ -33,5 +38,6 @@
 
 ### Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/developer.pratyush)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PratyushXDev)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratyush.connect/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pratyush.connect)
